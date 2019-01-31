@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Douglas Whitaker"
+title                    : "Douglas Whitaker"
 title_separator          : "-"
-name                     : &name "Dr. Douglas Whitaker"
+name                     : &name "Douglas Whitaker"
 description              : &description "Assistant Professor of Statistics at Mount Saint Vincent University"
 url                      : https://douglaswhitaker.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Douglas Whitaker"
+  name             : "Douglas Whitaker"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Statistics at Mount Saint Vincent University"
   location         : "Halifax, Canada"
