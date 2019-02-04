@@ -1,10 +1,10 @@
 ---
 title: "Students’ Understanding of Bar Graphs and Histograms: Results from the LOCUS Assessments"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-08-23-histograms-paper
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2017-08-23
+venue: 'Journal of Statistics Education'
 paperurl: 'http://dx.doi.org/10.1080/10691898.2017.1321974'
 citation: 'Whitaker, D. & Jacobbe, T. (2017). Students’ Understanding of Bar Graphs and Histograms: Results from the LOCUS Assessments. <i>Journal of Statistics Education, 25</i>(2), 90-102.'
 ---
