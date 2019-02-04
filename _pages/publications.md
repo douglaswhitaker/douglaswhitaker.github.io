@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Selected publications; please see my CV for a complete list of publications.
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
