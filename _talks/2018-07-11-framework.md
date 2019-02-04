@@ -1,7 +1,7 @@
 ---
 title: "A Framework and Survey for Measuring Students’ Motivational Attitudes Toward Statistics"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference Proceedings Paper"
 permalink: /talks/2018-07-11-framework
 venue: "Tenth International Conference on Teaching Statistics (ICOTS10)"
 date: 2018-07-11
