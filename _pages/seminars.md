@@ -9,6 +9,10 @@ redirect_from:
 This page contains the materials from 2019 Biostatistics Refresher. This page will likely move in the future.
 
 [Slides](_files/2019 ISANS Biostatistics Refresher Slides.pdf)
+
 [Slides 2x2]
+
 [Handout]
+
 [Handout Solutions]
+
