@@ -10,9 +10,9 @@ This page contains the materials from 2019 Biostatistics Refresher. This page wi
 
 <a href="_files/2019 ISANS Biostatistics Refresher Slides.pdf">Slides</a>
 
-[Slides 2x2]
+<a href="_files/2019 ISANS Biostatistics Refresher Slides 2x2.pdf">Slides 2x2</a>
 
-[Handout]
+<a href="_files/2019 ISANS Biostatistics Refresher Handout.pdf">Handout</a>
 
-[Handout Solutions]
+<a href="_files/2019 ISANS Biostatistics Refresher Handout Solutions.pdf">Handout Solutions</a>
 
