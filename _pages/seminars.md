@@ -14,5 +14,5 @@ This page contains the materials from 2019 Biostatistics Refresher. This page wi
 
 <a href="../files/2019 ISANS Biostatistics Refresher Handout.pdf">Handout</a>
 
-<a href="../files/2019 ISANS Biostatistics Refresher Handout Solutions.pdf">Handout Solutions</a>
+<a href="../files/2019 ISANS Biostatistics Refresher Handout solutions.pdf">Handout solutions</a>
 
