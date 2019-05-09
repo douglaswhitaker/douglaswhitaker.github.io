@@ -4,7 +4,6 @@ title: "Seminars"
 excerpt: "Short seminars and other talks"
 author_profile: true
 redirect_from: 
-  - "/seminars/"
   - "/seminars.html"
 ---
 
